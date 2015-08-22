@@ -1,0 +1,393 @@
+Cafe, Italian, American
+Chinese, Thai, Continental, Pizza, North Indian
+Italian, American, Pizza
+Finger Food, North Indian, Italian, Continental, Thai, South Indian
+Continental, American, Cafe, Desserts, Mediterranean
+Cafe, American, Desserts
+Pizza, Cafe, Desserts
+North Indian, European, Mediterranean
+American, Continental
+North Indian
+Chinese, Thai, Asian
+Desserts
+North Indian, Continental, Chinese
+Parsi, Iranian
+Cafe, American
+European, Mediterranean, North Indian
+European, Italian, Desserts
+Continental, American, Italian, North Indian, Asian
+Continental, Mediterranean, Italian, American
+Mediterranean, Pizza, Continental, Seafood
+Bakery, Desserts, Cafe, American
+Continental, Mexican
+North Indian, Chinese, Mediterranean, Italian
+Continental, Italian, Cafe
+Asian
+North Indian
+American, Continental, Japanese, European
+American, North Indian
+Mexican
+Italian
+Japanese, Thai, Chinese, Korean
+European, Mexican, Cafe
+Continental, American
+Continental
+Continental, Italian, Mexican, Asian
+Desserts, Cafe
+American, Fast Food
+North Indian, Continental, Chinese
+Desserts, Cafe
+American, Asian, European, North Indian
+Cafe, American, Desserts
+American, Continental, North Indian
+Italian
+North Indian, Chinese, Italian, Thai, Japanese, Continental
+Cafe, Continental
+Cafe, Italian, American
+Gujarati, North Indian, Rajasthani
+American, Continental, Japanese, Mediterranean, North Indian
+Ice Cream, Desserts
+Vietnamese
+American
+Cafe, American
+Italian, Mexican
+North Indian, Mughlai
+Continental, North Indian, Italian, Chinese
+Cafe, Desserts
+American, Continental
+Cafe
+Biryani, North Indian
+Cafe, Italian
+Mediterranean
+North Indian, European, Mediterranean
+North Indian, Cafe
+North Indian, Chinese, Thai, Continental
+Continental, Mediterranean
+North Indian, Chinese
+South Indian
+Continental, American, Cafe
+Asian, Thai, Chinese
+German, European, Tex-Mex, Asian, South Indian
+South Indian
+Mediterranean
+Italian, North Indian
+Italian
+Chinese, Thai, Seafood
+Italian
+Steakhouse, Italian, Continental, American
+Cafe, American, Desserts
+North Indian, Mughlai
+Chinese, Asian
+South Indian
+South Indian
+Continental, Mexican
+North Indian
+Chinese, Biryani, Seafood, Andhra
+American, Mexican, Tex-Mex
+Cafe, Continental, Italian
+Cafe, American
+European, Italian, Continental
+Arabian, North Indian, Mughlai, Chinese
+Italian, American, Steakhouse, Continental
+Chinese, Continental, North Indian
+Cafe, Desserts, Bakery
+North Indian
+North Indian, European
+Italian
+Continental
+North Indian, South Indian
+American, Asian, European, North Indian
+North Indian, Continental, Italian
+Italian, Pizza
+Fast Food, European
+Chinese
+North Indian, Fast Food
+Continental, American, Cafe
+Ice Cream, Desserts
+Vietnamese
+Cafe, Continental, Fast Food
+European, Italian
+Fast Food, Street Food
+European, Mediterranean, North Indian
+Finger Food
+British, Mexican, Continental
+European, Cafe
+Continental, American, Chinese
+North Indian, Chinese, Seafood, Biryani
+North Indian, Lucknowi, Gujarati, Maharashtrian, South Indian, Bengali
+North Indian, Asian, Seafood
+North Indian
+Cafe
+Cafe
+American, Continental, Seafood, Finger Food
+American
+American, Cafe
+Cafe, French
+South Indian
+Cafe, Continental, Italian, German, French, Spanish
+Cafe, North Indian, Chinese, South Indian
+North Indian, South Indian
+Continental, Asian, European
+North Indian, Chinese
+American, Chinese, Thai, Continental
+Japanese, Asian
+American, Continental, Fast Food
+Arabian, North Indian, Chinese, Fast Food
+Desserts, Cafe
+Chinese, Biryani, Seafood, Andhra
+Mediterranean, European
+Cafe, Parsi
+Continental, North Indian, Chinese, Italian
+Italian
+Chinese, Biryani, North Indian
+Cafe
+Cafe, American
+Seafood, Goan, Mexican, Japanese, North Indian
+Chettinad, Andhra, Kerala, Mangalorean, South Indian
+Continental, Italian
+North Indian
+North Indian, Italian, Mexican, Continental
+Thai, Japanese, Korean, Burmese, Chinese
+Desserts, Bakery
+North Indian, Chinese
+North Indian, Chinese
+Chinese
+American, Continental, Steakhouse
+Chinese
+Fast Food
+North Indian, Mughlai
+North Indian
+European, Italian, Desserts
+Italian, Mexican
+North Indian
+American, Continental, Mediterranean, Mughlai, North Indian
+Arabian, Persian, Lebanese, Mediterranean
+
+North Indian, Chinese, Continental, Thai
+North Indian
+Continental, Mediterranean
+Italian, North Indian, Healthy Food, Desserts, Cafe
+Continental
+North Indian, Italian, Street Food, Mexican
+Andhra
+North Indian, Lucknowi, Gujarati, Maharashtrian, South Indian, Bengali
+Andhra
+North Indian
+North Indian
+Mexican, American, Fast Food
+European, Italian, Seafood, Continental
+North Indian, Fast Food, Street Food
+Cafe, Fast Food, North Indian
+Continental, Thai, North Indian, Italian
+European, Italian, Cafe
+Italian, Mediterranean, Pizza, North Indian
+Chinese, Thai
+American, Italian, North Indian, Asian
+North Indian
+Seafood, Mangalorean, North Indian, Chinese
+North Indian, Chinese, Biryani
+Cafe
+Chinese, Biryani, Seafood, Andhra
+Goan
+North Indian
+Thai, Chinese, North Indian
+Chinese, South Indian
+North Indian, Italian
+North Indian, Mughlai, Chinese
+Mughlai, North Indian, Afghani
+South Indian
+Bakery, Desserts, South Indian
+North Indian
+American, Mexican
+North Indian
+Fast Food, American
+South Indian, North Indian, Chinese
+Cafe, Italian, Fast Food
+North Indian
+American, Mexican
+Italian
+Asian, American, Mediterranean
+Cafe, Healthy Food
+Chinese, Thai, Seafood, Italian
+Desserts
+Continental, Italian
+Cafe
+American, Mexican, Tex-Mex
+Lebanese, Arabian, Mediterranean
+Continental, North Indian
+Korean, Chinese, Japanese
+Continental, Italian
+Chinese, Thai, Japanese
+Pizza
+Tibetan, Chinese
+Andhra, Biryani
+Bakery, Cafe
+North Indian
+Continental, Chinese, North Indian
+American, Fast Food
+Cafe
+Steakhouse, Continental
+Cafe, American
+Chinese, Continental, Mangalorean, North Indian, Seafood
+Biryani
+Chinese, North Indian, American, Italian, Continental
+Continental
+Cafe, Fast Food, Desserts
+North Indian, Mughlai
+Mexican
+North Indian
+North Indian, Chinese, Continental
+North Indian
+Asian, American, Mediterranean
+Portuguese, African
+North Indian, Mughlai
+Chinese, European, Singaporean
+North Indian, Chinese, South Indian, Street Food, Desserts, Bakery
+Pizza
+Chettinad, South Indian
+Chettinad, South Indian
+Italian, Continental, American, Cafe
+Chinese, Thai
+American, Chinese, Continental, Mexican
+Andhra, North Indian, Chinese
+Chinese, Thai, Vietnamese, Malaysian, Singaporean, Burmese
+Continental, American, European, Cafe
+Desserts
+Italian, Continental, North Indian, American, Chinese
+Desserts, Fast Food, Cafe
+Continental
+American, Fast Food
+North Indian, South Indian, American
+North Indian, South Indian
+Ice Cream, Desserts
+Desserts, Bakery
+Mangalorean, Seafood
+American, Cafe, Continental, Desserts
+Italian
+Desserts, Cafe, Fast Food, Italian
+Bengali, Mughlai
+Mexican, Tex-Mex
+Thai, Asian
+Mexican, Tex-Mex
+Thai, Asian
+American, Chinese, Continental, Mexican
+Biryani, North Indian, Chinese
+American, Finger Food
+Continental, Mexican
+Fast Food, Mughlai
+Rajasthani
+Cafe, American
+North Indian
+North Indian, South Indian, Chinese, Fast Food
+Cafe, Continental
+Pizza, Italian
+Seafood, Mediterranean, Continental
+North Indian
+Andhra
+Mediterranean, Lebanese, Parsi, North Indian
+American, Italian, Continental, Asian
+North Indian
+Chinese
+North Indian, Chinese, Continental, Street Food
+Continental
+North Indian, Mughlai, Chinese, Continental
+Spanish, Italian, Mediterranean, European
+Biryani, North Indian, Chinese
+Italian
+American, Mexican
+North Indian, Chinese
+European, Italian, Mediterranean
+American, Cafe, Continental
+Fast Food
+Continental, American, Italian
+North Indian, Street Food, South Indian
+Arabian, North Indian, Chinese, Fast Food
+South Indian, Cafe
+Rajasthani
+Cafe, Continental, Chinese
+Italian
+North Indian, Continental
+Mughlai, North Indian
+North Indian, Mughlai
+Cafe, Continental
+Italian, Pizza
+Maharashtrian
+Continental, American, Cafe
+Chinese, Thai
+Cafe, Continental
+Desserts, Cafe
+Chettinad, South Indian
+Cafe, French, Desserts
+North Indian, Chinese
+Italian, Pizza, Cafe
+South Indian, North Indian
+Mexican, Fast Food
+Continental, Chinese
+North Indian
+Continental, North Indian
+Cafe, European, Italian, Pizza, Bakery
+Finger Food, Continental
+North Indian, Mughlai, Fast Food
+Kerala, Seafood, North Indian
+North Indian
+Finger Food
+Italian, Pizza, Fast Food
+North Indian, European, South Indian, Thai
+North Indian
+Chinese, North Indian, Finger Food
+Cafe, American, Desserts
+North Indian
+Ice Cream, Desserts
+North Indian, Biryani
+Tex-Mex, Mexican
+Rajasthani, Gujarati
+North Indian, Chinese
+American, Italian, Continental, Asian
+Chinese, Thai
+Continental, South Indian, North Indian
+Cafe, European
+Italian, Pizza
+Chinese
+Finger Food
+South Indian, Seafood, Finger Food
+Continental, European
+Steakhouse, Continental, Cafe
+Cafe, North Indian, Chinese
+Mediterranean
+South Indian, Seafood, Finger Food
+North Indian, Italian, Chinese, Continental
+North Indian, Chinese
+Italian, Pizza
+North Indian, Chinese
+Italian, Pizza
+Chinese, Thai
+Fast Food, Cafe
+North Indian, Chinese, Continental, South Indian, Street Food
+Kerala
+Chinese
+South Indian
+Mangalorean, Konkan, South Indian
+Chinese
+North Indian, Biryani
+North Indian, Chinese
+North Indian
+Cafe
+North Indian, Chinese
+North Indian, Chinese, Italian, Bengali
+Rajasthani, Gujarati
+South Indian
+American, North Indian, Chinese
+North Indian
+Andhra, Biryani
+North Indian
+North Indian, Biryani, Chinese
+European, Mediterranean, North Indian
+North Indian, Chinese, Cafe
+Continental, Italian
+North Indian
+Biryani, Andhra
+Andhra, Seafood
+North Indian, Italian, Asian, Continental, Mediterranean
+Chinese, Thai
+Cafe, American, Desserts, Bakery, Continental
+Continental, Chinese, Italian, Tibetan, Fast Food
